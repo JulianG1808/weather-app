@@ -34,6 +34,14 @@ function App() {
       <Search onSearchChange={handleOnSearchChange} />
       {currentWeather && <CurrentWeather data={currentWeather} />}
       {forecast && <Forecast data={forecast} />}
+
+      <div className="attribution">
+        Coded by{" "}
+        <a href="https://portfolio-julian.vercel.app/" target="_blank">
+          Julian Gomez
+        </a>
+        .
+      </div>
     </div>
   );
 }
