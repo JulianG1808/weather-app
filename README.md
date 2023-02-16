@@ -9,8 +9,6 @@ This is a website that shows weather and forecasts. made using OpenWheather and 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
