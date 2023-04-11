@@ -7,6 +7,7 @@ This is a website that shows weather and forecasts. made using OpenWheather and 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Test In Your Own Computer](#test-in-your-own-computer)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -28,7 +29,7 @@ Mobile View
 - Solution URL: [View source code here](https://github.com/JulianG1808/weather-app)
 - Live Site URL: [View live site here](https://weather-app-jgz.vercel.app/)
 
-### Test In You Own Computer
+### Test In Your Own Computer
 
 1. Clone this source code using the next URL `https://github.com/JulianG1808/video-player.git` in a terminal like **GIT Bash** or another.
 3. Go to the folder **weather-app** from your **terminal**.
