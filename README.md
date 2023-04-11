@@ -31,7 +31,7 @@ Mobile View
 
 ### Test In Your Own Computer
 
-1. Clone this source code using the next URL `https://github.com/JulianG1808/video-player.git` in a terminal like **GIT Bash** or another.
+1. Clone this source code using the next URL `https://github.com/JulianG1808/weather-app.git` in a terminal like **GIT Bash** or another.
 3. Go to the folder **weather-app** from your **terminal**.
 4. Execute the command `npm install` for install all the dependencies of the project.
 5. Execute the command `npm start`.
